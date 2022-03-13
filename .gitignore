@@ -1,0 +1,14 @@
+!.gitkeep
+
+# Server
+node_modules
+
+# Python
+.venv
+__pycache__
+
+# Because I am a MacOS pleb
+.DS_Store
+
+# Because wordcloud
+server/wordclouds/*
